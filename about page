@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<<head>
+  <title>About Page</title>
+  <link href="goris_mod6_3.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <h1>About Me</h1>
+  </header>
+  
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="hobbies.html">Hobbies</a></li>
+    </ul>
+  </nav>
+  
+  <main>
+    <h2>About Me</h2>
+    <p>Introducing Barbara, a remarkable woman whose love of the ocean waves is one of her favorite hobbies. One of her pastimes is enjoying her favorite Southern-style biscuits and gravy while sitting in the shallow waves of the ocean in deep conversation with her soulmate and husband, Nelson.  
+<br>Barbara finds excitement in a variety of hobbies. Her favorites include horseback rides, catching waves on a boogie board, or losing herself in captivating book of biographies and autobiographies.
+<br>Dogs are Barbara’s favorite animal. She often reminisces about Roxy who sadly crossed the rainbow bridge.  
+<br>Barbara’s finds her groove listening to rock and roll. She enjoys classic rock to hard and grunge which transport her to another time in her life. 
+<br>Her movie favorites include, “Tombstone”, “Jaws” and “The Godfather” which provide excitement and drama. Her television favorites include “Seinfeld” and “The Andy Griffith Show” which bring her both laughter and joy. 
+<br>Her favorite sports team is the legendary 1986 New York Mets. She is an avid softball player.  
+<br>Barbara’s dream vacation would include Maldives and Greece. She is looking forward to one day reaching these destinations and creating memories with her husband.
+</p>
+  </main>
+  
+  <footer>
+    <p>&copy; 2023 My Website. All rights reserved.</p>
+  </footer>
+</body>
+</html>
